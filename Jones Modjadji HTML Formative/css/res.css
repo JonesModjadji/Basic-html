@@ -1,0 +1,171 @@
+/*nav*/
+.ban2
+{
+	font-size:30px;
+	text-align:right;
+	width:100%;
+	padding-right:8%;
+}
+ab1
+{
+	text-decoration:none;
+	font-size:50px;
+	padding-left:80px;
+	opacity:0.5;
+	
+}
+ab1:hover
+{
+	opacity:0.27;
+	
+}
+ab
+{
+
+	text-decoration:none;
+	color:black;
+	opacity:0.6;
+	font-size:32px;
+}
+a
+{
+	text-decoration:none;
+	opacity:0.6;
+
+}
+a:hover
+{
+	opacity:1;
+}
+/*body*/
+body
+{
+	
+	width:1000px;
+	background:url(../img/back1.jpg);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+	font-family:Adobe Gothic Std;
+	font-weight:normal;
+	color:black;
+	position: absolute; 
+
+}
+input[type="submit"]:hover
+{
+	background: gray;
+}
+input[type="text"]
+{
+	background: #FFFFFF;
+	border: 1px solid #E7E7E7;
+	font-family: Arial, Geneva,Helvetica, sans-serif;
+	color: rgba(85, 81, 81, 0.84);
+	padding: 8px;
+	display: block;
+	width: 98%;
+	outline: none;
+	-webkit-appearance: none;
+	text-transform: capitalize;
+}
+textarea
+{
+	resize:none;
+	height:120px;
+	width:480px;
+	background: #FFFFFF;
+	border: 1px solid #E7E7E7;
+	font-family: Arial, Geneva,Helvetica, sans-serif;
+	color: rgba(85, 81, 81, 0.84);
+	padding: 8px;
+	display: block;
+	width: 98%;
+	outline: none;
+	-webkit-appearance: none;
+	text-transform: capitalize;
+}
+input[type="submit"]
+{
+	font-family:Adobe Gothic Std;
+	color: white;
+	background: black;
+	border:none;
+	outline:none;
+	cursor:pointer;
+	display: inline-block;
+	text-transform: uppercase;
+	padding: 10px 30px;
+	transition: 1.5s ease;
+	-moz-transition: 1.5s ease;
+	-o-transition: 1.5s ease;
+	-webkit-transition: 1.5s ease;
+}
+#pic
+{
+	transition: transform 1s;
+	opacity:0.6;
+	float:right;
+}
+#pic:hover
+{
+	opacity:1;
+}
+/*Styles*/
+right
+{
+	float:right;
+}
+left
+{
+	float:left;
+}
+table
+{
+	padding-left:80px;
+	
+}
+b
+{
+	padding-left:80px;
+}
+b1
+{
+	position:absolute;
+	padding-left:80px;
+}
+p
+{
+	padding-left:80px;
+	
+}
+content
+{	
+	opacity:0.6;
+	font-size:30px;
+}
+content1
+{
+	font-family: Arial, Geneva,Helvetica, sans-serif;	
+	opacity:0.8;
+	padding-left:80px;
+	font-size:18px;
+	color:gray;
+	width:450px;
+}
+content2
+{
+font-family: Arial, Geneva,Helvetica, sans-serif;	
+opacity:0.6;
+padding-left:80px;
+font-size:18px;
+width:450px;	
+}
+#scale
+{
+  transition: transform 1s;
+}
+#scale:hover 
+{
+	transform: scale(1.2);
+}
